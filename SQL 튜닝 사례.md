@@ -1,5 +1,5 @@
 DBA 인턴십 중 실제로 발생한 쿼리 성능 문제와 해결 과정을 정리했습니다.  
-실행계획(`EXPLAIN PLAN` / `DBMS_XPLAN.DISPLAY`) 분석을 기반으로 합니다.
+실행계획(EXPLAIN PLAN) 분석을 기반으로 합니다.
 
 ---
 
